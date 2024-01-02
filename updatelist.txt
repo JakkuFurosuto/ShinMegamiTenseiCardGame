@@ -1,10 +1,10 @@
 SMT	01-02-24
-plugins/SMT/plugininfo.txt	https://github.com/JakkuFurosuto/ShinMegamiTenseiCardGame/blob/main/plugininfo.txt	371737
-plugins/SMT/sets/carddata.txt	https://github.com/JakkuFurosuto/ShinMegamiTenseiCardGame/blob/main/carddata.txt	680919
-plugins/SMT/sets/setimages/general/cardback.png	https://github.com/JakkuFurosuto/ShinMegamiTenseiCardGame/blob/main/cardback.png	-76659
-plugins/SMT/sets/setimages/general/spawned.png	https://github.com/JakkuFurosuto/ShinMegamiTenseiCardGame/blob/main/spawned.png	-76659
-plugins/SMT/saved/start.txt	https://github.com/JakkuFurosuto/ShinMegamiTenseiCardGame/blob/main/start.txt	53573
-plugins/SMT/bot.jpg	https://github.com/JakkuFurosuto/ShinMegamiTenseiCardGame/blob/main/bot.jpg	198125
-plugins/SMT/decks/Frost.dek	https://github.com/JakkuFurosuto/ShinMegamiTenseiCardGame/blob/main/Frost.dek	387191
+plugins/SMT/plugininfo.txt	https://raw.githubusercontent.com/JakkuFurosuto/ShinMegamiTenseiCardGame/main/plugininfo.txt	371737
+plugins/SMT/sets/carddata.txt	https://raw.githubusercontent.com/JakkuFurosuto/ShinMegamiTenseiCardGame/main/carddata.txt	680919
+plugins/SMT/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/JakkuFurosuto/ShinMegamiTenseiCardGame/main/cardback.png	-76659
+plugins/SMT/sets/setimages/general/spawned.png	https://raw.githubusercontent.com/JakkuFurosuto/ShinMegamiTenseiCardGame/main/spawned.png	-76659
+plugins/SMT/saved/start.txt	https://raw.githubusercontent.com/JakkuFurosuto/ShinMegamiTenseiCardGame/main/start.txt	53573
+plugins/SMT/bot.jpg	https://raw.githubusercontent.com/JakkuFurosuto/ShinMegamiTenseiCardGame/main/bot.jpg	198125
+plugins/SMT/decks/Frost.dek	https://raw.githubusercontent.com/JakkuFurosuto/ShinMegamiTenseiCardGame/main/Frost.dek	387191
 CardGeneralURLs:
-https://github.com/JakkuFurosuto/ShinMegamiTenseiCardGame/tree/main/Demonic%20Invasion
+https://raw.githubusercontent.com/JakkuFurosuto/ShinMegamiTenseiCardGame/main/Demonic%20Invasion/
