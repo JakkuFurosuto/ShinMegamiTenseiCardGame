@@ -1,0 +1,92 @@
+Name	Set	ImageFile	Cost	Type	Race	Allignment 	Group	Power	Guard	Elemental Affinity	Weakness	Set Number	Script
+Turn Icon	Demonic Invasion	FullAction.png,HalfAction.png	N/A	Token									
+Angel	Demonic Invasion	Angel.png	1	Demon	Divine	Law		1	1	Expel	Curse	BS01-01	/ccred+1;/ccblue+1
+Ba	Demonic Invasion	Ba.png	1	Demon	Flight	Law		1	1	Force	Electric	BS01-02	/ccred+1;/ccblue+1
+Doppelganger	Demonic Invasion	Doppelganger.png	1	Demon	Foul	Chaos		1	1	Physical	Expel	BS01-03	/ccred+1;/ccblue+1
+Petit Frost	Demonic Invasion	PetitFrost.png	1	Demon	Fairy	Neutral	Jack	1	1	Ice	Fire	BS01-04	/ccred+1;/ccblue+1
+Pixie	Demonic Invasion	Pixie.png	1	Demon	Fairy	Neutral		1	1	Force	Curse	BS01-05	/ccred+1;/ccblue+1
+Apsaras	Demonic Invasion	Apsaras.png	2	Demon	Yoma	Law	Dance	1	3	Ice	Fire	BS01-06	/ccred+1;/ccblue+3
+Archangel	Demonic Invasion	Archangel.png	2	Demon	Divine	Law		2	2	Expel	Curse	BS01-07	/ccred+2;/ccblue+2
+Churel	Demonic Invasion	Churel.png	2	Demon	Haunt	Chaos		3	1	Curse	Expel	BS01-08	/ccred+3;/ccblue+1
+Jack Frost	Demonic Invasion	JackFrost.png	2	Demon	Fairy	Neutral	Jack	2	2	Ice	Fire	BS01-09	/ccred+2;/ccblue+2
+Jack Ripper	Demonic Invasion	JackRipper.png	2	Demon	Foul	Chaos	Jack	3	1	Physical	Expel	BS01-10	/ccred+3;/ccblue+1
+Jack-o-Lantern	Demonic Invasion	JackoLantern.png	2	Demon	Fairy	Neutral	Jack	1	3	Fire	Ice	BS01-11	/ccred+1;/ccblue+3
+Kanbari	Demonic Invasion	Kanbari.png	2	Demon	Enigma	Neutral		0	4	Expel	Physical	BS01-12	/ccred+0;/ccblue+4
+Lilim	Demonic Invasion	Lilim.png	2	Demon	Night	Chaos		1	3	Curse	Expel	BS01-13	/ccred+1;/ccblue+3
+Mokoi	Demonic Invasion	Mokoi.png	2	Demon	Night	Chaos		2	2	Electric	Force	BS01-14	/ccred+2;/ccblue+2
+Sandman	Demonic Invasion	Sandman.png	2	Demon	Night	Chaos		1	3	Curse	Electric	BS01-15	/ccred+1;/ccblue+3
+Ai-oh	Demonic Invasion	Ai-oh.png	3	Demon	Fairy	Neutral	Jack	2	4	Electric	Force	BS01-16	/ccred+2;/ccblue+4
+Aitvaras	Demonic Invasion	Aitvaras.png	3	Demon	Drake	Chaos		2	4	Fire	Ice	BS01-17	/ccred+2;/ccblue+4
+Apis	Demonic Invasion	Apis.png	3	Demon	Holy	Law		2	4	Expel	Curse	BS01-18	/ccred+2;/ccblue+4
+Hator	Demonic Invasion	Hator.png	3	Demon	Megami	Law	Dance	2	4	Expel	Physical	BS01-19	/ccred+2;/ccblue+4
+Incubus	Demonic Invasion	Incubus.png	3	Demon	Night	Chaos		2	4	Curse	Electric	BS01-20	/ccred+2;/ccblue+4
+Naga	Demonic Invasion	Naga.png	3	Demon	Snake	Neutral		4	2	Electric	Force	BS01-21	/ccred+4;/ccblue+2
+Oni	Demonic Invasion	Oni.png	3	Demon	Brute	Chaos		4	2	Physical	Electric	BS01-22	/ccred+4;/ccblue+2
+Principality	Demonic Invasion	Principality.png	3	Demon	Divine	Law		2	4	Expel	Curse	BS01-23	/ccred+2;/ccblue+4
+Yaksini	Demonic Invasion	Yaksini.png	3	Demon	Femme	Neutral		3	3	Force	Electric	BS01-24	/ccred+3;/ccblue+3
+Bastet	Demonic Invasion	Bastet.png	4	Demon	Holy	Law	Cat	5	3	Force	Curse	BS01-25	/ccred+5;/ccblue+3
+Demonee-oh	Demonic Invasion	Demonee-oh.png	4	Demon	Fairy	Neutral	Jack	4	4	Ice	Electric	BS01-26	/ccred+4;/ccblue+4
+Frost Ace	Demonic Invasion	FrostAce.png	4	Demon	Genma	Neutral	Jack	3	5	Ice	Curse	BS01-27	/ccred+3;/ccblue+5
+High Pixie	Demonic Invasion	HighPixie.png	4	Demon	Fairy	Neutral		3	5	Force	Ice	BS01-28	/ccred+3;/ccblue+5
+Power	Demonic Invasion	Power.png	4	Demon	Divine	Law		3	3	Expel	Curse	BS01-29	/ccred+3;/ccblue+3
+Sarasvati	Demonic Invasion	Sarasvati.png	4	Demon	Megami	Law	Dance	3	5	Ice	Curse	BS01-30	/ccred+3;/ccblue+5
+Succubus	Demonic Invasion	Succubus.png	4	Demon	Night	Chaos		5	3	Curse	Expel	BS01-31	/ccred+5;/ccblue+3
+Thoth	Demonic Invasion	Thoth.png	4	Demon	Deity	Law		3	5	Electric	Physical	BS01-32	/ccred+3;/ccblue+5
+Anubis	Demonic Invasion	Anubis.png	5	Demon	Avatar	Law		5	5	Curse	Force	BS01-33	/ccred+5;/ccblue+5
+Belphegor	Demonic Invasion	Belphegor.png	5	Demon	Tyrant	Chaos		4	6	Ice	Fire	BS01-34	/ccred+4;/ccblue+6
+Garuda	Demonic Invasion	Garuda.png	5	Demon	Avian	Law		5	5	Force	Electric	BS01-35	/ccred+5;/ccblue+5
+Horus	Demonic Invasion	Horus.png	5	Demon	Deity	Law		4	6	Expel	Curse	BS01-36	/ccred+4;/ccblue+6
+King Frost	Demonic Invasion	KingFrost.png	5	Demon	Tyrant	Chaos	Jack	4	6	Ice	Fire	BS01-37	/ccred+4;/ccblue+6
+Naga Raja	Demonic Invasion	NagaRaja.png	5	Demon	Snake	Neutral		6	4	Electric	Force	BS01-38	/ccred+6;/ccblue+4
+Parvati	Demonic Invasion	Parvati.png	5	Demon	Megami	Law	Dance	4	6	Ice	Fire	BS01-39	/ccred+4;/ccblue+6
+Queen Frost	Demonic Invasion	QueenFrost.png	5	Demon	Tyrant	Chaos		6	4	Ice	Fire	BS01-40	/ccred+6;/ccblue+4
+Queen Mab	Demonic Invasion	QueenMab.png	5	Demon	Night	Chaos		4	6	Force	Electric	BS01-41	/ccred+4;/ccblue+6
+Virtue	Demonic Invasion	Virtue.png	5	Demon	Divine	Law		4	4	Expel	Curse	BS01-42	/ccred+4;/ccblue+4
+Wendigo	Demonic Invasion	Wendigo.png	5	Demon	Jaki	Neutral		7	3	Ice	Fire	BS01-43	/ccred+7;/ccblue+3
+Black Frost	Demonic Invasion	BlackFrost.png	6	Demon	Night	Chaos	Jack	6	6	Curse	Expel	BS01-44	/ccred+6;/ccblue+6
+Cerberus	Demonic Invasion	Cerberus.png	6	Demon	Beast	Neutral		8	4	Fire	Ice	BS01-45	/ccred+8;/ccblue+4
+Cleopatra	Demonic Invasion	Cleopatra.png	6	Demon	Femme	Law		7	5	Ice	Curse	BS01-46	/ccred+7;/ccblue+5
+Dominion	Demonic Invasion	Dominion.png	6	Demon	Divine	Law		5	7	Expel	Curse	BS01-47	/ccred+5;/ccblue+7
+Isis	Demonic Invasion	Isis.png	6	Demon	Lady	Law		5	7	Electric	Curse	BS01-48	/ccred+5;/ccblue+7
+Lakshmi	Demonic Invasion	Lakshmi.png	6	Demon	Megami	Law	Dance	5	7	Force	Electric	BS01-49	/ccred+5;/ccblue+7
+Asmodeus	Demonic Invasion	Asmodeus.png	7	Demon	Tyrant 	Chaos		6	8	Fire	Expel	BS01-50	/ccred+6;/ccblue+8
+Lilith	Demonic Invasion	Lilith.png	7	Demon	Night	Chaos		8	6	Curse	Ice	BS01-51	/ccred+8;/ccblue+6
+Samael	Demonic Invasion	Samael.png	7	Demon	Fallen	Chaos		7	7	Curse	Expel	BS01-52	/ccred+7;/ccblue+7
+Throne	Demonic Invasion	Throne.png	7	Demon	Divine	Law		7	7	Expel	Curse	BS01-53	/ccred+7;/ccblue+7
+Amon-Ra	Demonic Invasion	Amon-Ra.png	8	Demon	Deity	Law		7	9	Expel	Electric	BS01-54	/ccred+7;/ccblue+9
+Cherub	Demonic Invasion	Cherub.png	8	Demon	Divine	Law		8	8	Expel	Curse	BS01-55	/ccred+8;/ccblue+8
+Mara	Demonic Invasion	Mara.png	8	Demon	Tyrant	Chaos		9	7	Fire	Ice	BS01-56	/ccred+9;/ccblue+7
+Lucifer Frost	Demonic Invasion	LuciferFrost.png	9	Demon	Tyrant	Chaos	Jack	10	8	Ice	Fire	BS01-57	/ccred+10;/ccblue+8
+Seraph	Demonic Invasion	Seraph.png	9	Demon	Divine	Law		9	9	Expel	Curse	BS01-58	/ccred+9;/ccblue+9
+Vishnu	Demonic Invasion	Vishnu.png	9	Demon	Deity	Law		8	10	Expel	Fire	BS01-59	/ccred+8;/ccblue+10
+Sandalphon	Demonic Invasion	Sandalphon.png	10	Demon	Herald	Law		9	11	Expel	Curse	BS01-60	/ccred+9;/ccblue+11
+Charon's Deal	Demonic Invasion	CharonsDeal.png	0	Ritual	Spell							BS01-61	
+Demon Compendium	Demonic Invasion	DemonCompendium.png	0	Ritual	Item							BS01-62	
+Demon Contract	Demonic Invasion	DemonContract.png	0	Ritual	Item							BS01-63	
+Demonic Scream	Demonic Invasion	DemonicScream.png	0	Ritual	Spell							BS01-64	
+Frost Sanctuary	Demonic Invasion	FrostSanctuary.png	0	Ritual	Field							BS01-65	
+Gustave's Offer	Demonic Invasion	GustavesOffer.png	0	Ritual	Spell							BS01-66	
+Life Stone	Demonic Invasion	LifeStone.png	0	Ritual	Item							BS01-67	
+Megami Prayer	Demonic Invasion	MegamiPrayer.png	0	Ritual	Spell							BS01-68	
+Angel's Will	Demonic Invasion	AngelsWill.png	1	Ritual	Spell							BS01-69	
+Blessed Spring	Demonic Invasion	BlessedSpring.png	1	Ritual	Field							BS01-70	
+Celestial Dance	Demonic Invasion	CelestialDance.png	1	Ritual	Spell							BS01-71	
+Divine Order	Demonic Invasion	DivineOrder.png	1	Ritual	Field							BS01-72	
+Hama	Demonic Invasion	Hama.png	1	Ritual	Spell		Hama					BS01-73	
+Holy Shield	Demonic Invasion	HolyShield.png	1	Ritual	Item		Attach					BS01-74	
+Jack Brothers	Demonic Invasion	JackBrothers.png	1	Ritual	Spell							BS01-75	
+Mabufu	Demonic Invasion	Mabufu.png	1	Ritual	Spell		Bufu					BS01-76	
+Maeiga	Demonic Invasion	Maeiga.png	1	Ritual	Spell		Mudo					BS01-77	
+Makouga	Demonic Invasion	Makouga.png	1	Ritual	Spell		Hama					BS01-78	
+Maragi	Demonic Invasion	Maragi.png	1	Ritual	Spell		Agi					BS01-79	
+Mazan	Demonic Invasion	Mazan.png	1	Ritual	Spell		Zan					BS01-80	
+Mazio	Demonic Invasion	Mazio.png	1	Ritual	Spell		Zio					BS01-81	
+Megido	Demonic Invasion	Megido.png	1	Ritual	Spell		Almighty					BS01-82	
+Mudo	Demonic Invasion	Mudo.png	1	Ritual	Spell		Mudo					BS01-83	
+Demon's Raid	Demonic Invasion	DemonsRaid.png	2	Ritual	Spell							BS01-84	
+Frost Horde	Demonic Invasion	FrostHorde.png	2	Ritual	Spell							BS01-85	
+Nile's Blessing	Demonic Invasion	NilesBlessing.png	2	Ritual	Field							BS01-86	
+Protective Aura	Demonic Invasion	ProtectiveAura.png	2	Ritual	Spell		Attach					BS01-87	
+Showdown	Demonic Invasion	Showdown.png	2	Ritual	Spell							BS01-88	
+Land of Demons	Demonic Invasion	LandofDemons.png	4	Ritual	Field							BS01-89	
+Tridevi	Demonic Invasion	Tridevi.png	4	Ritual	Spell							BS01-90	

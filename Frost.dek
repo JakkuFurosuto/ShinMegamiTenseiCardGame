@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>SMT</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="JackFrost.png">Jack Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="JackFrost.png">Jack Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="JackFrost.png">Jack Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="JackFrost.png">Jack Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="JackRipper.png">Jack Ripper</name><set>Demonic Invasion</set></card>
+		<card><name id="JackRipper.png">Jack Ripper</name><set>Demonic Invasion</set></card>
+		<card><name id="JackoLantern.png">Jack-o-Lantern</name><set>Demonic Invasion</set></card>
+		<card><name id="JackoLantern.png">Jack-o-Lantern</name><set>Demonic Invasion</set></card>
+		<card><name id="JackoLantern.png">Jack-o-Lantern</name><set>Demonic Invasion</set></card>
+		<card><name id="JackoLantern.png">Jack-o-Lantern</name><set>Demonic Invasion</set></card>
+		<card><name id="JackBrothers.png">Jack Brothers</name><set>Demonic Invasion</set></card>
+		<card><name id="JackBrothers.png">Jack Brothers</name><set>Demonic Invasion</set></card>
+		<card><name id="FrostSanctuary.png">Frost Sanctuary</name><set>Demonic Invasion</set></card>
+		<card><name id="FrostSanctuary.png">Frost Sanctuary</name><set>Demonic Invasion</set></card>
+		<card><name id="FrostAce.png">Frost Ace</name><set>Demonic Invasion</set></card>
+		<card><name id="FrostAce.png">Frost Ace</name><set>Demonic Invasion</set></card>
+		<card><name id="FrostAce.png">Frost Ace</name><set>Demonic Invasion</set></card>
+		<card><name id="FrostHorde.png">Frost Horde</name><set>Demonic Invasion</set></card>
+		<card><name id="FrostHorde.png">Frost Horde</name><set>Demonic Invasion</set></card>
+		<card><name id="FrostHorde.png">Frost Horde</name><set>Demonic Invasion</set></card>
+		<card><name id="PetitFrost.png">Petit Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="PetitFrost.png">Petit Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="PetitFrost.png">Petit Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="PetitFrost.png">Petit Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="Demonee-oh.png">Demonee-oh</name><set>Demonic Invasion</set></card>
+		<card><name id="Demonee-oh.png">Demonee-oh</name><set>Demonic Invasion</set></card>
+		<card><name id="Demonee-oh.png">Demonee-oh</name><set>Demonic Invasion</set></card>
+		<card><name id="KingFrost.png">King Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="KingFrost.png">King Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="KingFrost.png">King Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="QueenFrost.png">Queen Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="QueenFrost.png">Queen Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="QueenFrost.png">Queen Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="Wendigo.png">Wendigo</name><set>Demonic Invasion</set></card>
+		<card><name id="Wendigo.png">Wendigo</name><set>Demonic Invasion</set></card>
+		<card><name id="BlackFrost.png">Black Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="BlackFrost.png">Black Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="BlackFrost.png">Black Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="LuciferFrost.png">Lucifer Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="LuciferFrost.png">Lucifer Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="LuciferFrost.png">Lucifer Frost</name><set>Demonic Invasion</set></card>
+		<card><name id="CharonsDeal.png">Charon&apos;s Deal</name><set>Demonic Invasion</set></card>
+		<card><name id="CharonsDeal.png">Charon&apos;s Deal</name><set>Demonic Invasion</set></card>
+		<card><name id="CharonsDeal.png">Charon&apos;s Deal</name><set>Demonic Invasion</set></card>
+		<card><name id="Mabufu.png">Mabufu</name><set>Demonic Invasion</set></card>
+		<card><name id="Mabufu.png">Mabufu</name><set>Demonic Invasion</set></card>
+		<card><name id="Mabufu.png">Mabufu</name><set>Demonic Invasion</set></card>
+		<card><name id="Showdown.png">Showdown</name><set>Demonic Invasion</set></card>
+		<card><name id="Showdown.png">Showdown</name><set>Demonic Invasion</set></card>
+		<card><name id="Showdown.png">Showdown</name><set>Demonic Invasion</set></card>
+	</superzone>
+</deck>
